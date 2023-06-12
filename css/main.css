@@ -1631,12 +1631,6 @@ header .logo a {
     left: 25px;
   }
 
-  header .logo a {
-    width: 54px;
-    height: 54px;
-    background-size: 54px 54px;
-  }
-}
 
 /* ------------------------------------------------------------------- 
  * navigation - (_layout.css) 
